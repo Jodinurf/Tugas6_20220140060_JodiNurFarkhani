@@ -1,6 +1,6 @@
 link github pages : https://jodinurf.github.io/Tugas6_20220140060_JodiNurFarkhani/
 <br>
-or you can see the results with all of these photos:
+Hasil screenshot ketika dijalankan:
 <br>
 ![alt text](https://github.com/Jodinurf/Tugas6_20220140060_JodiNurFarkhani/blob/main/results/1.png?raw=true)
 ![alt text](https://github.com/Jodinurf/Tugas6_20220140060_JodiNurFarkhani/blob/main/results/2.png?raw=true)
